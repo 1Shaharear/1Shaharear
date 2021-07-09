@@ -75,7 +75,7 @@ B.Sc. in Software Engineering from Daffodil International University
 
 **JS**
 
-Bootstrap 
+**Bootstrap **
 
 **C**
 1. [Snake Gamer in C](https://github.com/1Shaharear/Snake-Gamer-in-C)
@@ -91,20 +91,27 @@ Bootstrap
 1. [Simple Calculator Swing JFrame](https://github.com/1Shaharear/Java-GUI-Swing-JFrame-Simple-Programming-Calculator-for-Beginner)
 2. [2D Ball Game](https://github.com/1Shaharear/JAVA-Netbeans-2D-Ball-Game-Source-Code)
 
-Python
-PHP
+**Python**
 
-Laravel
-Django
+**PHP**
 
-Kotlin
-FLutter
+**Laravel**
 
-OpenCV
-Pytroch
-Tensorflow
-Jupyter Notebook
-Spyder
+**Django
+
+**Kotlin
+
+**FLutter
+
+**OpenCV
+
+**Pytroch
+
+**Tensorflow
+
+**Jupyter Notebook
+
+**Spyder
 
 MySql
 Matlab
