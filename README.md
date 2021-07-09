@@ -67,15 +67,10 @@ B.Sc. in Software Engineering from Daffodil International University
 ## Some Projects
 
 ## Programming Languages Projects
-**Html**
+**Html, CSS, JS, Bootstrap**
 1. Calculator
 2. 
 
-**CSS**
-
-**JS**
-
-**Bootstrap**
 
 **C**
 1. [Snake Gamer in C](https://github.com/1Shaharear/Snake-Gamer-in-C)
