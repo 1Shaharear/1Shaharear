@@ -72,13 +72,11 @@ B.Sc. in Software Engineering from Daffodil International University
 2. 
 
 
-**C**
+**C, C++**
 1. [Snake Gamer in C](https://github.com/1Shaharear/Snake-Gamer-in-C)
 2. [PhoneBook](https://github.com/1Shaharear/PhoneBook-Application-using-C-programming)
 3. [Snack and Ladders](https://github.com/1Shaharear/Snakes-and-Ladders-in-C-Programming)
-
-**C++**
-1. [Alarm Clock](https://github.com/1Shaharear/Alarm-Clock)
+4. [Alarm Clock](https://github.com/1Shaharear/Alarm-Clock)
 
 **C#**
 
