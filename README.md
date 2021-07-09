@@ -67,7 +67,11 @@ B.Sc. in Software Engineering from Daffodil International University
 ## Some Projects
 
 ## Programming Languages Projects
-Html, CSS, JS, Bootstrap 
+**Html**
+1. Calculator
+**CSS**
+**JS**
+Bootstrap 
 
 C
 C++
