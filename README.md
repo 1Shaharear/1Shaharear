@@ -68,12 +68,12 @@ B.Sc. in Software Engineering from Daffodil International University
 
 ## Programming Languages Projects
 **Html, CSS, JS, Bootstrap**
-1. Calculator
+1. [Shaharear Calculator](https://github.com/1Shaharear/Snake-Gamer-in-C)
 2. 
 
 
 **C, C++**
-1. [Snake Gamer in C](https://github.com/1Shaharear/Snake-Gamer-in-C)
+1. [Snake Gamer in C](https://github.com/1Shaharear/Shaharear-Calculator)
 2. [PhoneBook](https://github.com/1Shaharear/PhoneBook-Application-using-C-programming)
 3. [Snack and Ladders](https://github.com/1Shaharear/Snakes-and-Ladders-in-C-Programming)
 4. [Alarm Clock](https://github.com/1Shaharear/Alarm-Clock)
