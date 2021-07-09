@@ -1,7 +1,7 @@
 # KAZI-SHAMIM-SHAHAREAR-ISLAM
 :white_check_mark: Welcome to My Profile :zap:
 ## Objectives
-I Software Engineering and Data Science.
+I am a Software Engineering and special skills in Data Science with 100+ projects. I have more than 7 years of programming experiences.
 ## Skills
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50">  
@@ -51,21 +51,37 @@ B.Sc. in Software Engineering from Daffodil International University
 ## Programming Languages Projects
 Html, CSS, JS, Bootstrap 
 
-C, C++, C#
+C
+C++
+C#
 
-Java, Python, PHP
+Java
+Python
+PHP
 
-Laravel, Django
+Laravel
+Django
 
-Kotlin, FLutter
+Kotlin
+FLutter
 
-OpenCV, Pytroch, Tensorflow, Jupyter Notebook, Spyder
+OpenCV
+Pytroch
+Tensorflow
+Jupyter Notebook
+Spyder
 
-MySql, Matlab, Chart.js, Oracle,
-
+MySql
+Matlab
+Chart.js
+Oracle
 
 
 ## Achievement
 
 ## Interest
+Sports
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=1shaharear&&style=flat-square" align="center" />
+</div>  
