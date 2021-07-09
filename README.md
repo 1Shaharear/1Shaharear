@@ -61,7 +61,7 @@ B.Sc. in Software Engineering from Daffodil International University
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
 <a href="https://youtube.com/shaharear" target="_blank">
-<img src=https://img.shields.io/youtube/channel/subscribers/UCND9d4hmh9gmwBXSDZNtmog?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/youtube/channel/subscribers/UCND9d4hmh9gmwBXSDZNtmog?style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 </div> <br>
 
