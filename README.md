@@ -75,7 +75,7 @@ B.Sc. in Software Engineering from Daffodil International University
 
 **JS**
 
-**Bootstrap **
+**Bootstrap**
 
 **C**
 1. [Snake Gamer in C](https://github.com/1Shaharear/Snake-Gamer-in-C)
@@ -97,26 +97,29 @@ B.Sc. in Software Engineering from Daffodil International University
 
 **Laravel**
 
-**Django
+**Django**
 
-**Kotlin
+**Kotlin**
 
-**FLutter
+**FLutter**
 
-**OpenCV
+**OpenCV**
 
-**Pytroch
+**Pytroch**
 
-**Tensorflow
+**Tensorflow**
 
-**Jupyter Notebook
+**Jupyter Notebook**
 
-**Spyder
+**Spyder**
 
-MySql
-Matlab
-Chart.js
-Oracle
+**MySql**
+
+**Matlab**
+
+**Chart.js**
+
+**Oracle**
 
 **Other**
 1. [Online Doctor](https://github.com/1Shaharear/Online-Doctor)
