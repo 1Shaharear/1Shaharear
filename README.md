@@ -138,7 +138,7 @@ I have 100+ Projects. I'll upload them here soon.....
 3. Machine Learning Foundations | University of Washington  
 4. Programming for Everybody (Python) | University of Michigan   
 5. Build a Google Firebase Web Application | Coursera Project Network  
-6. SQL for Data Science | University of California, Davis  
+6. [SQL for Data Science | University of California, Davis](https://www.coursera.org/account/accomplishments/verify/4WE7S26WGGNE) 
 7. Financial Markets | Yale University  
 
 
