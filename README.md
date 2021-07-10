@@ -127,6 +127,19 @@ I have 100+ Projects. I'll upload them here soon.....
 
 
 ## Achievement
+1. International Summit on Employability & Soft Skills 2017
+2. Department Project Fair Fall 2017
+3. Narail Zilla Logo Competition 1st Runners Up 2020  
+4. Volunteer & Program Organizer at BCRHRF  
+**Coursera Certificates:**
+1. Big Data and Machine Learning Fundamentals | Google Cloud  
+2. Software Product Management | University of Alberta  
+3. Machine Learning Foundations | University of Washington  
+4. Programming for Everybody (Python) | University of Michigan   
+5. Build a Google Firebase Web Application | Coursera Project Network  
+6. SQL for Data Science | University of California, Davis  
+7. Financial Markets | Yale University  
+
 
 ## Interest
 Sports, Media, Cars, Trees, Military,
