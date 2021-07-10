@@ -130,7 +130,8 @@ I have 100+ Projects. I'll upload them here soon.....
 1. International Summit on Employability & Soft Skills 2017
 2. Department Project Fair Fall 2017
 3. Narail Zilla Logo Competition 1st Runners Up 2020  
-4. Volunteer & Program Organizer at BCRHRF  
+4. Volunteer & Program Organizer at BCRHRF
+
 **Coursera Certificates:**
 1. Big Data and Machine Learning Fundamentals | Google Cloud  
 2. Software Product Management | University of Alberta  
