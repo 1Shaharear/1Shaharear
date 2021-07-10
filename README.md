@@ -69,6 +69,7 @@ B.Sc. in Software Engineering from Daffodil International University
 
 ## Programming Languages Projects
 I have 100+ Projects. I'll upload them here soon.....
+
 **Html, CSS, JS, Bootstrap**
 1. [Shaharear Calculator](https://github.com/1Shaharear/Shaharear-Calculator)
 2. 
