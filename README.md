@@ -65,7 +65,7 @@ B.Sc. in Software Engineering from Daffodil International University
 </a>
 </div> <br>
 
-## Some Projects
+## My Best Projects
 
 ## Programming Languages Projects
 I have 100+ Projects. I'll upload them here soon.....
@@ -123,7 +123,7 @@ I have 100+ Projects. I'll upload them here soon.....
 2. [Shaharear Reminder](https://github.com/1Shaharear/Shaharear-Reminder)
 
 ***Web Based**
-1. [Personal Blog Yoga Shaharear](https://github.com/1Shaharear/Shaharear-Reminder)
+1. [Personal Blog Yoga Shaharear](https://github.com/1Shaharear/Personal-Blog-Yoga-Shaharear)
 
 
 ## Achievement
