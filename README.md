@@ -133,13 +133,13 @@ I have 100+ Projects. I'll upload them here soon.....
 4. Volunteer & Program Organizer at BCRHRF
 
 **Coursera Certificates:**
-1. [Bootcamp of Data Science with Python [+250 exercises][A-Z]](https://www.udemy.com/certificate/UC-a98e4d19-adab-4fb9-b662-37b811c596a8/)
-2. [Big Data and Machine Learning Fundamentals | Google Cloud](https://www.coursera.org/account/accomplishments/verify/CJ8CR39QERC3)
-3. [Software Product Management | University of Alberta](https://www.coursera.org/account/accomplishments/verify/ZRK9C4TVMSFN)
-4. [Machine Learning Foundations | University of Washington](https://www.coursera.org/account/accomplishments/verify/A839U8VDVTRD)
-5. [Programming for Everybody (Python) | University of Michigan](https://www.coursera.org/account/accomplishments/verify/5JKVQ4FF38C2) 
-6. [Google Firebase Web Application | Coursera Project Network](https://www.coursera.org/account/accomplishments/verify/F9CM7D7RVU8T)
-7. [SQL for Data Science | University of California, Davis](https://www.coursera.org/account/accomplishments/verify/4WE7S26WGGNE) 
+1. [Big Data and Machine Learning Fundamentals | Google Cloud](https://www.coursera.org/account/accomplishments/verify/CJ8CR39QERC3)
+2. [Software Product Management | University of Alberta](https://www.coursera.org/account/accomplishments/verify/ZRK9C4TVMSFN)
+3. [Machine Learning Foundations | University of Washington](https://www.coursera.org/account/accomplishments/verify/A839U8VDVTRD)
+4. [Programming for Everybody (Python) | University of Michigan](https://www.coursera.org/account/accomplishments/verify/5JKVQ4FF38C2) 
+5. [Google Firebase Web Application | Coursera Project Network](https://www.coursera.org/account/accomplishments/verify/F9CM7D7RVU8T)
+6. [SQL for Data Science | University of California, Davis](https://www.coursera.org/account/accomplishments/verify/4WE7S26WGGNE)
+7. [Bootcamp of Data Science with Python [+250 exercises][A-Z] | udemy](https://www.udemy.com/certificate/UC-a98e4d19-adab-4fb9-b662-37b811c596a8/)
 8. [Financial Markets | Yale University (WITH HONORS)](https://www.coursera.org/account/accomplishments/verify/XJHR23C3L7EM)
 9. [Programming for Everybody (Python) | University of Michigan](https://www.coursera.org/account/accomplishments/verify/5JKVQ4FF38C2)
 
