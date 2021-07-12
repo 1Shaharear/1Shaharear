@@ -133,15 +133,16 @@ I have 100+ Projects. I'll upload them here soon.....
 4. Volunteer & Program Organizer at BCRHRF
 
 **Coursera Certificates:**
-1. [Big Data and Machine Learning Fundamentals | Google Cloud](https://www.coursera.org/account/accomplishments/verify/CJ8CR39QERC3)
-2. [Software Product Management | University of Alberta](https://www.coursera.org/account/accomplishments/verify/ZRK9C4TVMSFN)
-3. [Machine Learning Foundations | University of Washington](https://www.coursera.org/account/accomplishments/verify/A839U8VDVTRD)
-4. [Programming for Everybody (Python) | University of Michigan](https://www.coursera.org/account/accomplishments/verify/5JKVQ4FF38C2) 
-5. [Google Firebase Web Application | Coursera Project Network](https://www.coursera.org/account/accomplishments/verify/F9CM7D7RVU8T)
-6. [SQL for Data Science | University of California, Davis](https://www.coursera.org/account/accomplishments/verify/4WE7S26WGGNE)
-7. [Bootcamp of Data Science with Python [+250 exercises][A-Z] | Udemy](https://www.udemy.com/certificate/UC-a98e4d19-adab-4fb9-b662-37b811c596a8/)
-8. [Financial Markets | Yale University (WITH HONORS)](https://www.coursera.org/account/accomplishments/verify/XJHR23C3L7EM)
-9. [Programming for Everybody (Python) | University of Michigan](https://www.coursera.org/account/accomplishments/verify/5JKVQ4FF38C2)
+1.  [Big Data and Machine Learning Fundamentals | Google Cloud](https://www.coursera.org/account/accomplishments/verify/CJ8CR39QERC3)
+2.  [Software Product Management | University of Alberta](https://www.coursera.org/account/accomplishments/verify/ZRK9C4TVMSFN)
+3.  [Machine Learning Foundations | University of Washington](https://www.coursera.org/account/accomplishments/verify/A839U8VDVTRD)
+4.  [Programming for Everybody (Python) | University of Michigan](https://www.coursera.org/account/accomplishments/verify/5JKVQ4FF38C2) 
+5.  [Google Firebase Web Application | Coursera Project Network](https://www.coursera.org/account/accomplishments/verify/F9CM7D7RVU8T)
+6.  [SQL for Data Science | University of California, Davis](https://www.coursera.org/account/accomplishments/verify/4WE7S26WGGNE)
+7.  [Bootcamp of Data Science with Python [+250 exercises][A-Z] | Udemy](https://www.udemy.com/certificate/UC-a98e4d19-adab-4fb9-b662-37b811c596a8/)
+8.  [Financial Markets | Yale University (WITH HONORS)](https://www.coursera.org/account/accomplishments/verify/XJHR23C3L7EM)
+9.  [Programming for Everybody (Python) | University of Michigan](https://www.coursera.org/account/accomplishments/verify/5JKVQ4FF38C2)
+10. [Network Programming Masterclass™:Java Socket, TCP/IP, Server | Udemy](https://www.udemy.com/certificate/UC-c7aaaefe-1558-496b-9ee9-66307b4a83a2/)
 
 ## Interest
 Sports, Media, Cars, Trees, Military,
