@@ -89,6 +89,7 @@ I have 100+ Projects. I'll upload them here soon.....
 2. [2D Ball Game](https://github.com/1Shaharear/JAVA-Netbeans-2D-Ball-Game-Source-Code)
 
 **Python**
+1. [Animal Quiz](https://github.com/1Shaharear/Animal-Quiz)
 
 **PHP**
 
