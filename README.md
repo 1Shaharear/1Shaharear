@@ -90,6 +90,7 @@ I have 100+ Projects. I'll upload them here soon.....
 
 **Python**
 1. [Animal Quiz](https://github.com/1Shaharear/Animal-Quiz)
+2. [Number Guessing Game](https://github.com/1Shaharear/Number-Guessing-Game)
 
 **PHP**
 
