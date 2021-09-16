@@ -149,6 +149,8 @@ I have 100+ Projects. I'll upload them here soon.....
 2. [Bootcamp of Data Science with Python [+250 exercises][A-Z] | Udemy](https://www.udemy.com/certificate/UC-a98e4d19-adab-4fb9-b662-37b811c596a8/)
 3. [R Programming For Absolute Beginners](https://www.udemy.com/certificate/UC-82f09ed9-bb49-4b52-81fc-39a86da97f41/)
 
+**IEEE Certificates:**
+1. [Intelligent Control of Connected and Automated Vehicles](https://www.credential.net/4e02905e-455e-4513-9ae8-19c3ae25c0c8#gs.bi9z9g)
 ## Interest
 Sports, Media, Cars, Trees, Military,
 
