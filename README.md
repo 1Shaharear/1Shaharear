@@ -142,7 +142,7 @@ I have 100+ Projects. I'll upload them here soon.....
 5.  [Google Firebase Web Application | Coursera Project Network](https://www.coursera.org/account/accomplishments/verify/F9CM7D7RVU8T)
 6.  [SQL for Data Science | University of California, Davis](https://www.coursera.org/account/accomplishments/verify/4WE7S26WGGNE)
 7.  [Financial Markets | Yale University (WITH HONORS)](https://www.coursera.org/account/accomplishments/verify/XJHR23C3L7EM)
-8.  [Programming for Everybody (Python) | University of Michigan](https://www.coursera.org/account/accomplishments/verify/5JKVQ4FF38C2)
+8.  [Introduction to Big Data | University of California San Diego](https://www.coursera.org/account/accomplishments/verify/6RP4Y9FM49L9)
 
 **Udemy Certificates:**
 1. [Network Programming Masterclass™:Java Socket, TCP/IP, Server | Udemy](https://www.udemy.com/certificate/UC-c7aaaefe-1558-496b-9ee9-66307b4a83a2/)
