@@ -106,6 +106,7 @@ I have 100+ Projects. I'll upload them here soon.....
 **FLutter**
 
 **OpenCV**
+1. [Car Detection Using OpenCV Python Project: 1](https://github.com/1Shaharear/Car-Detection-Using-OpenCV-Python-Project--1)
 
 **Pytroch**
 
