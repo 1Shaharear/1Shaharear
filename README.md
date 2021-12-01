@@ -65,10 +65,13 @@ B.Sc. in Software Engineering from Daffodil International University
 </a>
 </div> <br>
 
+## Data Science & Machine Learning Projects
+1. [RPubs Map: R Markdown and Leaflet](https://rpubs.com/shaharear1/rmark)
+
+
 ## Live Web Projects
 1. [Personal Blog Yoga Shaharear](https://1shaharear.github.io/Personal-Blog-Yoga-Shaharear/index.html)
 2. [Amar Bangla Travel 2021 Daffodil SWE Project](https://1shaharear.github.io/Amar-Bangla-Travel-2021-Daffodil-SWE-Project/)
-
 
 ## Programming Languages Projects
 I have 100+ Projects. I'll upload them here soon.....
