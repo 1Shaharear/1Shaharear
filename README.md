@@ -143,7 +143,7 @@ I have 100+ Projects. I'll upload them here soon.....
 3. Narail Zilla Logo Competition 1st Runners Up 2020  
 4. Volunteer & Program Organizer at BCRHRF
 
-[qwiklabs Badges](https://www.qwiklabs.com/public_profiles/7d2babd7-7671-4f13-afd1-e7aefb873a3d) [credly Badges](https://www.credly.com/users/kazi-shamim-shaharear-islam/badges)
+**Training Badges:** [Qwiklabs Badges](https://www.qwiklabs.com/public_profiles/7d2babd7-7671-4f13-afd1-e7aefb873a3d) [Credly Badges](https://www.credly.com/users/kazi-shamim-shaharear-islam/badges)
 
 **Coursera Certificates:**
 1.  [Big Data and Machine Learning Fundamentals | Google Cloud](https://www.coursera.org/account/accomplishments/verify/CJ8CR39QERC3)
