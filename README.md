@@ -45,6 +45,7 @@ I am a Software Engineering and special skills in Data Science with 100+ project
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=1shaharear&show_icons=true&locale=en" align="center" width="40%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=1shaharear" align="center" width="40%"/>
 </div> 
+
 ## Education
 B.Sc. in Software Engineering from Daffodil International University
 ## Connect with me  
