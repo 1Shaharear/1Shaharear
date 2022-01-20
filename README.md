@@ -74,14 +74,16 @@ B.Sc. in Software Engineering from Daffodil International University
 ## Live Web Projects
 1. [Personal Blog Yoga Shaharear](https://1shaharear.github.io/Personal-Blog-Yoga-Shaharear/index.html)
 2. [Amar Bangla Travel 2021 Daffodil SWE Project](https://1shaharear.github.io/Amar-Bangla-Travel-2021-Daffodil-SWE-Project/)
+3. [Kazicer Resturant](https://1shaharear.github.io/kazicer-Resturant-HTML-Designed-Front-End/)
 
 ## Programming Languages Projects
 I have 100+ Projects. I'll upload them here soon.....
 
 **Html, CSS, JS, Bootstrap**
-1. [Shaharear Calculator](https://github.com/1Shaharear/Shaharear-Calculator)
-2. [Analog Clock](https://github.com/KaziShamimShaharearIslam/Shaharear-Clock)
-3. [Todo List](https://github.com/KaziShamimShaharearIslam/Todo-List-in-html)
+1. [Kazicer Resturant](https://github.com/1Shaharear/kazicer-Resturant-HTML-Designed-Front-End/)
+2. [Shaharear Calculator](https://github.com/1Shaharear/Shaharear-Calculator)
+3. [Analog Clock](https://github.com/KaziShamimShaharearIslam/Shaharear-Clock)
+4. [Todo List](https://github.com/KaziShamimShaharearIslam/Todo-List-in-html)
  
 
 **C, C++**
