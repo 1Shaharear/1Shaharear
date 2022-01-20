@@ -74,7 +74,7 @@ B.Sc. in Software Engineering from Daffodil International University
 ## Live Web Projects
 1. [Personal Blog Yoga Shaharear](https://1shaharear.github.io/Personal-Blog-Yoga-Shaharear/index.html)
 2. [Amar Bangla Travel 2021 Daffodil SWE Project](https://1shaharear.github.io/Amar-Bangla-Travel-2021-Daffodil-SWE-Project/)
-3. [Kazicer Resturant](https://1shaharear.github.io/kazicer-Resturant-HTML-Designed-Front-End/)
+3. [Kazicer Resturant Design](https://1shaharear.github.io/kazicer-Resturant-HTML-Designed-Front-End/)
 
 ## Programming Languages Projects
 I have 100+ Projects. I'll upload them here soon.....
