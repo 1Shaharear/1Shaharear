@@ -1,7 +1,7 @@
 # KAZI-SHAMIM-SHAHAREAR-ISLAM
 :white_check_mark: Welcome to My Profile :zap: [WebSite](https://sites.google.com/view/kazishamim/home)
 ## Objectives
-I am a Software Engineering and special skills in Data Science with 100+ projects. I have more than 7 years of programming experiences.
+As a highly motivated full stack web developer with a B.Sc. in Software Engineering and PHP Laravel training from BASIS SEIP, I bring strong problem-solving skills, attention to detail, and a commitment to learning. I'm eager to collaborate on cutting-edge web applications and make meaningful contributions to dynamic teams.
 ## Skills (Full Stack | Data Science)
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50">  
@@ -67,8 +67,6 @@ B.Sc. in Software Engineering from Daffodil International University
 </a>
 </div> <br>
 
-## Data Science & Machine Learning Projects
-1. [RPubs Map: R Markdown and Leaflet](https://rpubs.com/shaharear1/rmark)
 
 
 ## Live Web Projects
@@ -76,8 +74,10 @@ B.Sc. in Software Engineering from Daffodil International University
 2. [Amar Bangla Travel 2021 Daffodil SWE Project](https://1shaharear.github.io/Amar-Bangla-Travel-2021-Daffodil-SWE-Project/)
 3. [Kazicer Resturant Design](https://1shaharear.github.io/kazicer-Resturant-HTML-Designed-Front-End/)
 
-## Programming Languages Projects
-I have 100+ Projects. I'll upload them here soon.....
+
+**PHP**
+
+**Laravel**
 
 **Html, CSS, JS, Bootstrap**
 1. [Kazicer Resturant](https://github.com/1Shaharear/kazicer-Resturant-HTML-Designed-Front-End/)
@@ -92,8 +92,6 @@ I have 100+ Projects. I'll upload them here soon.....
 3. [Snack and Ladders](https://github.com/1Shaharear/Snakes-and-Ladders-in-C-Programming)
 4. [Alarm Clock](https://github.com/1Shaharear/Alarm-Clock)
 
-**C#**
-
 **Java**
 1. [Simple Calculator Swing JFrame](https://github.com/1Shaharear/Java-GUI-Swing-JFrame-Simple-Programming-Calculator-for-Beginner)
 2. [2D Ball Game](https://github.com/1Shaharear/JAVA-Netbeans-2D-Ball-Game-Source-Code)
@@ -102,34 +100,8 @@ I have 100+ Projects. I'll upload them here soon.....
 1. [Animal Quiz](https://github.com/1Shaharear/Animal-Quiz)
 2. [Number Guessing Game](https://github.com/1Shaharear/Number-Guessing-Game)
 
-**PHP**
-
-**Laravel**
-
-**Django**
-
-**Kotlin**
-
-**FLutter**
-
 **OpenCV**
 1. [Car Detection Using OpenCV Python Project: 1](https://github.com/1Shaharear/Car-Detection-Using-OpenCV-Python-Project--1)
-
-**Pytroch**
-
-**Tensorflow**
-
-**Jupyter Notebook**
-
-**Spyder**
-
-**MySql**
-
-**Matlab**
-
-**Chart.js**
-
-**Oracle**
 
 **Other**
 1. [Online Doctor](https://github.com/1Shaharear/Online-Doctor)
